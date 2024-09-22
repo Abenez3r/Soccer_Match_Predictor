@@ -1,0 +1,9 @@
+# prediction model
+pandas
+scikit-learn
+
+
+# webscrapping 
+requests
+beautifulsoup4
+time
