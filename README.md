@@ -31,10 +31,6 @@ This project leverages machine learning techniques to predict the outcomes of so
 4. **Team Mapping**:
    - Apply custom mapping to standardize team names.
 
-## Model Performance
-- **Testing Accuracy**: 61.23%
-- **Precision**: 67.39%
-- **Precision with Rolling Averages**: 67.39%
 
 ## Example
 Here’s a snippet of how the predictions and actual results are presented:
