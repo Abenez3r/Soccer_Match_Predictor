@@ -45,7 +45,7 @@ Here’s a snippet of how the predictions and actual results are presented:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/soccer-match-prediction.git
+   git clone https://github.com/Abenez3r/soccer-match-prediction.git
    ```
 2. Navigate to the project directory:
    ```bash
